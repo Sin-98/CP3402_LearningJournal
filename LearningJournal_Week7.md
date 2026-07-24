@@ -2,7 +2,7 @@
 # Week 7
 
 ## Learning Activities & Resources
-This week I learned more about collaborative software development and project management, I used the following resources: 
+This week I learned PHP fundamentals and improve my understanding of server-side web development, I used the following resources: 
 - https://www.linkedin.com/learning/php-for-wordpress-24300129/what-is-php-for-wordpress?u=2223545
 - https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=2223545
 - https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics/php-with-mysql-essential-training-the-basics?u=2223545
